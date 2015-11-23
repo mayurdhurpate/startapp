@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Start App</string>
+    <string name="heading">My Starter App!</string>
+    <string name="action_settings">Settings</string>
+</resources>
